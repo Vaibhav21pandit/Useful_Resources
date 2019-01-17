@@ -33,8 +33,10 @@ NLP-
 
 
 
-COMPUTER VISION
-
+COMPUTER VISION-
+1)
+2)
+3)Best source for project Ideas- http://cs231n.stanford.edu/2017/reports.html
 
 
 
@@ -47,6 +49,13 @@ CNNs
 
 RNNs & LSTMs
 
+
+
+
+
+
+
+GANs-1)First take a look at all the astonishing things GANs can do and gain some motivation as to why you should learn them, here(https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900) 
 
 
 
@@ -80,7 +89,7 @@ Apache Spark-
 DATASETS-ohh yes there is no ML without Datasets.Here's a comprehensive list of sources to get s=datasets from-
 1)Kaggle-https://www.kaggle.com/datasets
 2)MNIST Datasets
-3)
+3)Yelp Datasets
 
 
 
